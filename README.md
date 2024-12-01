@@ -29,7 +29,7 @@ Este projeto implementa um sistema para gerenciar:
 1. **Pré-requisitos**: Certifique-se de ter instalado Python 3.x e bibliotecas necessárias.  
 2. **Configuração do Ambiente**: Clone este repositório:  
    ```bash
-   git clone https://github.com/exemplo/projeto.git
-   cd projeto
+   git clone https://github.com/DiegoVSouza/trabalho-final-grafos.git
+   cd trabalho-final-grafos
    
 3. **Execução**: execute o notebook.  
