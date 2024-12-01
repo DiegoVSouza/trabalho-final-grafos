@@ -1,6 +1,6 @@
 # Projeto de Gestão de Coleta de Lixo e Controle de Zoonoses
 
-*Todas as instruções estão contidas no Python Notebook, juntamente com a função de geração do arquivo de entrada e o código final.*
+**Todas as instruções estão contidas no Python Notebook, juntamente com a função de geração do arquivo de entrada e o código final.**
 
 ---
 
@@ -31,5 +31,5 @@ Este projeto implementa um sistema para gerenciar:
    ```bash
    git clone https://github.com/exemplo/projeto.git
    cd projeto
-  ```
+   
 3. **Execução**: execute o notebook.  
