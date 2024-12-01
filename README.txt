@@ -1,6 +1,6 @@
 # Projeto de Gestão de Coleta de Lixo e Controle de Zoonoses
 
-**Todas as instruções estão contidas no Python Notebook, juntamente com a função de geração do arquivo de entrada e o código final.**
+*Todas as instruções estão contidas no Python Notebook, juntamente com a função de geração do arquivo de entrada e o código final.*
 
 ---
 
