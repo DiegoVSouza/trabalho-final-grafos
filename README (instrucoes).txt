@@ -1,0 +1,1 @@
+Todas as instruções estão contidas no python notebook juntamente com a função de geração do arquivo de entrada e o código final.
